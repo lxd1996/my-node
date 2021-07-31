@@ -1,4 +1,4 @@
-package com.lxd.pattern;
+package com.lxd.pattern.sington;
 
 /**
  * @Author lxd
